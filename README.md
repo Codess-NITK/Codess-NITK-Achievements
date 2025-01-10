@@ -1,15 +1,29 @@
 # Codess NITK Female Students' Achievements
 
-This repository celebrates the achievements of female students by showcasing their accomplishments in various domains. Below is a table listing their achievements, along with links to their experiences and LinkedIn profiles.
+This repository celebrates the achievements of female students by showcasing their accomplishments in various domains. Below are separate tables listing their achievements, organized by their year of passing out.
 
-## Achievements Table
+---
 
-| Name               | Year of Passing Out | Achievement Title                                | Link to Experience                                                                                 | LinkedIn Profile                              |
-|--------------------|---------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Tanvi Poddar       | 2026               | Recipient of Andy Grove Scholarship (AGS)      | [Experience](https://medium.com/@tanvi.poddar123/recipient-of-the-andy-grove-scholarship-b5d7c3079b17)             | [LinkedIn](https://www.linkedin.com/in/tanvi-poddar-206786298/) |
-| Swati Vinayak Bhat | 2026               | Amazon Future Engineer Intern                  | [Experience](https://docs.google.com/document/d/1yLHV8pR9Ht3mmfdSGQ-JA-Am_sefGaEt3kjsr0huRic/edit?usp=sharing)      | [LinkedIn](https://www.linkedin.com/in/swati-vinayak-bhat-9b6820248/) |
-| Ashinee Kesanam    | 2025               | Uber She++                                     | [Experience](https://medium.com/@ashineekesanam/my-experience-from-uber-she-to-uberstar-intern-2023-30b340e44c1a) | [LinkedIn](https://www.linkedin.com/in/ashinee20/) |
-| Charu Shah         | 2025               | Intern at NTU                                  | [Experience](https://docs.google.com/document/d/1AUrDU3mBij4FwejZtPc4gL5optuLsH5TWl1KbkTT-Ys/edit?tab=t.0)          | [LinkedIn](https://www.linkedin.com/in/charu-shah-) |
-| Charu Shah         | 2025               | GHCI Scholarship                               | -                                                                                                 | [LinkedIn](https://www.linkedin.com/in/charu-shah-) |
-| Jalak Kamdar       | 2025               | Texas Instruments                              | [Experience](https://docs.google.com/document/d/1AppPbsR1AAFcuoM1yIPI4PP9pEW8JjcApPH9YfTKIJQ/edit?usp=sharing)      | [LinkedIn](https://www.linkedin.com/in/jalakkamdar/) |
-| Soumya Sangam Jha  | 2025               | Cisco Women in Cyber Security (CWiCS) BOOST 3.0 | [Experience](https://docs.google.com/document/d/1tUddX-tHb4RvoPcnMzGF8OfhtJvsC9LtpbvbOITjft4/edit?usp=sharing)      | [LinkedIn](https://www.linkedin.com/in/soumyasj/) |
+## Batch: 2026
+
+| Name               | Achievement Title                                | Link to Experience                                                                                 | LinkedIn Profile                              |
+|--------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------|
+| Tanvi Poddar       | Recipient of Andy Grove Scholarship (AGS)      | [Experience](https://medium.com/@tanvi.poddar123/recipient-of-the-andy-grove-scholarship-b5d7c3079b17)             | [LinkedIn](https://www.linkedin.com/in/tanvi-poddar-206786298/) |
+| Tanvi Poddar       | Myntra Hackerramp Pre-finalist                 | [Experience](https://medium.com/@tanvi.poddar123/journey-to-the-pre-finale-of-myntra-hackerramp-weforshe-2024-0cf40e76409a) | [LinkedIn](https://www.linkedin.com/in/tanvi-poddar-206786298/) |
+| Pavithra P         | Amazon ML Summer School 2024                   | [Experience](https://medium.com/@pavithrabhagya2004/my-amazon-ml-summer-school-2024-experience-ba6eccf8b0e2)       | [LinkedIn](https://www.linkedin.com/in/pavithra-p-607031217/) |
+| Swati Vinayak Bhat | Amazon Future Engineer Intern                  | [Experience](https://docs.google.com/document/d/1yLHV8pR9Ht3mmfdSGQ-JA-Am_sefGaEt3kjsr0huRic/edit?usp=sharing)      | [LinkedIn](https://www.linkedin.com/in/swati-vinayak-bhat-9b6820248/) |
+
+---
+
+## Batch 2025
+
+| Name               | Achievement Title                                | Link to Experience                                                                                 | LinkedIn Profile                              |
+|--------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------|
+| Ashinee Kesanam    | Uber She++                                     | [Experience](https://medium.com/@ashineekesanam/my-experience-from-uber-she-to-uberstar-intern-2023-30b340e44c1a) | [LinkedIn](https://www.linkedin.com/in/ashinee20/) |
+| Ashinee Kesanam    | Uber STAR Intern                                     | - | [LinkedIn](https://www.linkedin.com/in/ashinee20/) |
+| Charu Shah         | Intern at NTU                                  | [Experience](https://docs.google.com/document/d/1AUrDU3mBij4FwejZtPc4gL5optuLsH5TWl1KbkTT-Ys/edit?tab=t.0)          | [LinkedIn](https://www.linkedin.com/in/charu-shah-) |
+| Charu Shah         | GHCI Scholarship                               | -                                                                                                 | [LinkedIn](https://www.linkedin.com/in/charu-shah-) |
+| Jalak Kamdar       | Texas Instruments                              | [Experience](https://docs.google.com/document/d/1AppPbsR1AAFcuoM1yIPI4PP9pEW8JjcApPH9YfTKIJQ/edit?usp=sharing)      | [LinkedIn](https://www.linkedin.com/in/jalakkamdar/) |
+| Soumya Sangam Jha  | Cisco Women in Cyber Security (CWiCS) BOOST 3.0 | [Experience](https://docs.google.com/document/d/1tUddX-tHb4RvoPcnMzGF8OfhtJvsC9LtpbvbOITjft4/edit?usp=sharing)      | [LinkedIn](https://www.linkedin.com/in/soumyasj/) |
+| Gaurangee Parashar | NVIDIA                                         | [Experience](https://docs.google.com/document/d/1sc7CmdjsdkmkK6PiOB7EQ-kdSLodTDKtAniW97xtfa4/edit?usp=sharing)      | [LinkedIn](https://www.linkedin.com/in/gaurangee-parashar-200277256/) |
+| Renukasakshi V Patil	| JPMC Code for Good 2024 	| [Experience](https://medium.com/@renukasakshivpatil/how-i-got-an-offer-from-j-p-morgan-code-for-good-2024-hackathon-and-preparation-tips-8aa7e6857724) | [LinkedIn](https://www.linkedin.com/in/renukasakshi-v-patil-548476230)|
