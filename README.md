@@ -27,6 +27,7 @@ This repository celebrates the achievements of female students by showcasing the
 | Soumya Sangam Jha  | Cisco Women in Cyber Security (CWiCS) BOOST 3.0 | [Experience](https://docs.google.com/document/d/1tUddX-tHb4RvoPcnMzGF8OfhtJvsC9LtpbvbOITjft4/edit?usp=sharing)      | [LinkedIn](https://www.linkedin.com/in/soumyasj/) |
 | Gaurangee Parashar | NVIDIA                                         | [Experience](https://docs.google.com/document/d/1sc7CmdjsdkmkK6PiOB7EQ-kdSLodTDKtAniW97xtfa4/edit?usp=sharing)      | [LinkedIn](https://www.linkedin.com/in/gaurangee-parashar-200277256/) |
 | Renukasakshi V Patil	| JPMC Code for Good 2024                      | [Experience](https://medium.com/@renukasakshivpatil/how-i-got-an-offer-from-j-p-morgan-code-for-good-2024-hackathon-and-preparation-tips-8aa7e6857724) | [LinkedIn](https://www.linkedin.com/in/renukasakshi-v-patil-548476230)|
+| Vartika T Rao | Amazon ML Summer School and Applied Scientist Internship | [Experience](https://medium.com/@vartikatrao/amazon-ml-summer-school-and-applied-scientist-internship-interview-experience-2024-99bce18c799b) | [LinkedIn](https://www.linkedin.com/in/vartika-t-rao/)
 
 ---
 
